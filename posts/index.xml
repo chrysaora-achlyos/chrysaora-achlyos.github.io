@@ -13,7 +13,7 @@
       <link>https://chrysaora-achlyos.github.io/posts/hello_world/</link>
       <pubDate>Sun, 27 Oct 2024 19:03:34 -0500</pubDate>
       <guid>https://chrysaora-achlyos.github.io/posts/hello_world/</guid>
-      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-jelly&#34; data-lang=&#34;jelly&#34;&gt;var varA = &amp;#34;Hello, world!&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-jelly&#34; data-lang=&#34;jelly&#34;&gt;var varA = &amp;#34;Hello, world!&amp;#34;&#xA;var varB = 0.9&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>
 </rss>
